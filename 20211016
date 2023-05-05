@@ -1,4 +1,4 @@
--problem1
+//problem1
 // Do not change class 'Main'
 public class Main {
 
@@ -125,7 +125,7 @@ class Person61 {
 
 
 }
--problem2
+//problem2
 
 // Do not change class 'Main'
 public class hh {
@@ -202,7 +202,7 @@ class Position62 {
 
 }
 
--problem3
+//problem3
 public class hh {
 	// Do not change method 'main'
 	public static void main(String[] args) {
@@ -271,7 +271,7 @@ class Grade63 {
 }
 
 
--problem4
+//problem4
 
 public class Hello2030 {
 	// Do not change method 'main'
