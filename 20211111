@@ -1,4 +1,4 @@
--problem1
+//problem1
 
 public class Hello2030 {
 
@@ -64,7 +64,7 @@ class MyNewException extends Exception {
 
      
 
--problem2
+//problem2
 
 import java.util.Scanner;
 
