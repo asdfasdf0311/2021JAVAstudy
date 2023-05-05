@@ -1,4 +1,4 @@
--problem1
+//problem1
 public class Main {
 
 	public static void main(String[] args) {
@@ -148,7 +148,7 @@ class Polygon71 extends Shape71{
 	}
 }
 
--problem2
+//problem2
 public class Main {
 
 	public static void main(String[] args) {
