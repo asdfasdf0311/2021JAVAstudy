@@ -1,4 +1,4 @@
--problem1
+//problem1
 import java.util.Scanner;
 
 public class hh{
@@ -50,7 +50,7 @@ public class hh{
 
 
 
--problem2
+//problem2
 import java.util.Scanner;
 
 public class hh{
@@ -83,7 +83,7 @@ public class hh{
 
 
 
--problem3
+//problem3
 import java.util.Scanner;
 
 public class hh{
@@ -128,7 +128,7 @@ public class hh{
 	}
 	
 }
--problem4
+//problem4
 import java.util.Scanner;
 
 public class Hello2030 {
