@@ -1,4 +1,4 @@
--problem1
+//problem1
 
 import java.util.Scanner;
 
@@ -40,7 +40,7 @@ public class Hello2030 {
 
      
 
--problem2
+//problem2
 
      
 
@@ -118,7 +118,7 @@ public class Hello2030 {
 
      
 
--problem3
+//problem3
 
      
 
