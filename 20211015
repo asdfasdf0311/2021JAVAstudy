@@ -1,4 +1,4 @@
--problem1
+//problem1
 // do not change class 'Main'
 public class hh {
 	public static void main(String[] args) {
@@ -39,7 +39,7 @@ class Class51 {
   
 }
 
--problem2
+//problem2
 
 // you should define 'main' method in 'Main' class.
 import java.util.Scanner;
@@ -111,7 +111,7 @@ public class hh {
 	}
 }
 
--problem3
+//problem3
 // do not change class 'Main' code
 public class hh {
 
