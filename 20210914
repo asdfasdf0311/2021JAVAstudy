@@ -1,4 +1,4 @@
--problem1
+//problem1
 public class Hello2030 {
 	public static void main(String[] args) {
 		final double PI=3.14;
@@ -10,7 +10,7 @@ public class Hello2030 {
 
 
 
--problem2
+//problem2
 public static final int boarding_limit = 5;
 	public static void main(String[] args) {
 		int all = 38;
@@ -23,7 +23,7 @@ public static final int boarding_limit = 5;
 	}
 
 
--problem3
+//problem3
 public static void main(String[] args) {
 		String s = "I love you.";
 		System.out.println("string = [" + s + "]");
