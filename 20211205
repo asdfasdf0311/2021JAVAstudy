@@ -1,4 +1,4 @@
--problem1
+//problem1
 public class Main {
 
 	public static void main(String[] args) {
@@ -42,7 +42,7 @@ class African extends People {
 }
 
 
--problem2
+//problem2
 public class hello {
 
 	public static void main(String[] args) {
@@ -132,7 +132,7 @@ class Novel82 extends Book82{
 		this.page = page;
 	}
 }
-- problem3
+//problem3
 public class Main {
 
 	public static void main(String[] args) {
